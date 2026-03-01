@@ -30,6 +30,6 @@ This project was created to practice frontend development concepts and responsiv
 ## 📷 Preview
 (Add your project screenshot here)
 
----
+--
 
 ✨ Created as part of my Frontend Development learning journey.
